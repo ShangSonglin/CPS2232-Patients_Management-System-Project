@@ -1,0 +1,6 @@
+Room Type: KingSizeRoom
+Room Status: vacantRoom
+Remarks: 
+Booked Guest: null
+Booking Start Time: null
+Booking End Time: null

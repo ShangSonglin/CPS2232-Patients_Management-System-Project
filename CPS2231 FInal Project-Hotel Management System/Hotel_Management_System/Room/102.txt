@@ -1,0 +1,6 @@
+Room Type: DoubleRoom
+Room Status: Booking
+Remarks: 
+Booked Guest: aaabc
+Booking Start Time: 2002-10-29
+Booking End Time: 2002-10-29
