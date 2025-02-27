@@ -1,0 +1,6 @@
+doctor,Arthur,123456
+family,Arthur2,123456
+doctor,Yecong,123456
+family,Yecong2,123456
+family,Ashley,123456
+family,Ava,123456

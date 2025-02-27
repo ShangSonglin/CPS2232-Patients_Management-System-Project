@@ -1,0 +1,20 @@
+患者ID: 2, 用药: B, 用药时间: 9:00AM, 复诊时间: December 17st
+患者ID: 1, 用药: A, 用药时间: 9:00 AM , 复诊时间: December 17st
+患者ID: 1, 用药: A, 用药时间: 9:00 AM , 复诊时间: December 17st
+患者ID: 2, 用药: A, 用药时间: 9:00 AM , 复诊时间: December 17st
+患者ID: 1, 用药: A, 用药时间: 9:00 AM , 复诊时间: December 17st
+患者ID: 2, 用药: c, 用药时间: 10:00 AM , 复诊时间: December 17st
+患者ID: 1, 姓名: Arthur3, 用药: A, 用药时间: 9：00AM/Day, 复诊时间: December 17st
+患者ID: 1, 姓名: Arthur3, 用药: A, 用药时间: 9：00AM/Day, 复诊时间: December 17st
+患者ID: 1, 姓名: Arthur3, 用药: A, 用药时间: 9：00AM/Day, 复诊时间: December 17st
+患者ID: 1, 姓名: Arthur3, 用药: A, 用药时间: 9：00AM/Day, 复诊时间: December 17st
+患者ID: 4, 姓名: Arthur2, 用药: D, 用药时间: 10：00AM/Day, 复诊时间: December17st
+Arthur2,17882276842
+患者ID: 5, 姓名: Yecong2, 用药: F, 用药时间: 5:00PM, 复诊时间: December 17st
+Yecong2,17882276842
+患者ID: 9, 姓名: 9：00AM/Day, 用药: G, 用药时间: 9：00AM/Day, 复诊时间: December 17st
+患者ID: 2, 姓名: 未知, 年龄: 0, 性别: 未知, 用药: , 用药时间: , 复诊时间: 无
+患者ID: 3, 姓名: 未知, 年龄: 0, 性别: 未知, 用药: , 用药时间: , 复诊时间: 无
+患者ID: 10, 姓名: Rex, 年龄: 19, 性别: Male, 用药: A, 用药时间: 9：00AM, 复诊时间: December 17st
+患者ID: 15, 姓名: Ashley, 年龄: 19, 性别: Female, 用药: P, 用药时间: 10:00AM/Day, 复诊时间: December 17st
+患者ID: 15, 姓名: Ashley, 年龄: 19, 性别: Female, 用药: S, 用药时间: 9:00PM, 复诊时间: December 18st

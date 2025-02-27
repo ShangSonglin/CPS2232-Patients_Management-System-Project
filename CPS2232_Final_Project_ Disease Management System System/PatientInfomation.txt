@@ -1,0 +1,3 @@
+Patient ID: 1, Name: Arthur2, Age: 19, Gender: Male, Medication: A-Type, Medication Time: 9:00AM/Day, Follow-Up Time: December 17st
+Patient ID: 2, Name: Ava, Age: 19, Gender: Female, Medication: B-Type, Medication Time: 9:00AM/Day, Follow-Up Time: December 17st
+Patient ID: 2, Name: Ava, Age: 19, Gender: Female, Medication: C-Type, Medication Time: 10:00AM/Day, Follow-Up Time: December19th
