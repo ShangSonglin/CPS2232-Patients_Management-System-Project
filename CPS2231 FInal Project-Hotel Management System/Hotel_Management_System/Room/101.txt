@@ -1,6 +1,0 @@
-Room Type: BigRoom
-Room Status: vacantRoom
-Remarks: 
-Booked Guest: 
-Booking Start Time: 
-Booking End Time: 
